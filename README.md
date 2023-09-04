@@ -1,0 +1,2 @@
+# PureMusicGPL3
+PureMusic棉花音乐疑似违反GPLV3协议
