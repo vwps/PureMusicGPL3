@@ -11,3 +11,7 @@ For example, if you distribute copies of such a program, whether gratis or for a
 https://github.com/pure-music/PureMusic/issues/4
 
 ![image](https://github.com/vwps/PureMusicGPL3/assets/143679824/3f38a72d-216e-4b86-9777-4a92247f9e4d)
+
+## 拿国外人的GPLV3开源项目改没问题，GPLV3没说限制收费什么的
+
+# 但不要这么离谱去违反协议，丢中国人脸
