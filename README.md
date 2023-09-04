@@ -21,3 +21,16 @@ https://github.com/pure-music/PureMusic/issues/4
 本页更新时间：2023年9月4日
 
 -------
+
+2023年9月4日12:51
+作者（疑似）回复：Github也回复你，
+**说不同点**：
+RetroMusicPlayer基于系统播放器，Pure基于exoplayer，支持网络歌曲（云盘）播放。
+RetroMusicPlayer仅管理本地歌曲文件，读取android系统媒体数据库， Pure使用sqldelight管理本地歌曲和云盘歌曲。
+RetroMusicPlayer页面跳转基于Android官方的androidx.navigation，Pure用的是我自己写的独立的页面管理器。
+RetroMusicPlayer歌手信息刮削用的deez的服务，Pure用的是spodify的服务。
+RetroMusicPlayer图片加载和缓存逻辑和Pure不同。
+RetroMusicPlayer的数据刷新依赖Android原生的Live Observer， Pure依赖EventBus。
+**相同点**： 这部分我没有什么修改，另外这部分我也将在迁移。 也可以开源。
+UI和主题，交互相同。
+歌曲队列的管理逻辑。
