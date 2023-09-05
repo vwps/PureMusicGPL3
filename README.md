@@ -15,6 +15,9 @@
 
 想说的是：和我没必要，你不是对不起我，你对不起的是RetroMusicPlayer所有维护开发的人所有的用户，其他严重的话就不说了，居然还要我：“RetroMusicPlayer/RetroMusicPlayer#1551 帮忙关闭关联内容”，你甚至没用那么一点点**公开**歉意的勇气，给RetroMusicPlayer所有维护开发的人、所有的RetroMusicPlayer用户吗？
 
+![image](https://github.com/vwps/PureMusicGPL3/assets/143679824/6d97d706-b556-486b-96bb-53d89d92a9fc)
+
+
 这个软件中发现大量RetroMusicPlayer源码内容，大量RetroMusicPlayer原作者原软件包名信息，**并未在此软件内包括你的软件主页并未发现任何相关版权说明以及GPLV3开源说明**（截至到2023年9月4日），请作者做出完整解释。
 GPLV3 写道：
 For example, if you distribute copies of such a program, whether gratis or for a fee, you must pass on to the recipients the same freedoms that you received. You must make sure that they, too, receive or can get the source code. And you must show them these terms so they know their rights.
