@@ -1,5 +1,5 @@
 # PureMusicGPL3
-原微博See作者Caij全新作品PureMusic棉花音乐疑似违反GPLV3协议
+原微博See作者Caij全新作品PureMusic棉花音乐违反GPLV3协议
 
 ## 拿国外人的GPLV3开源项目改没问题，GPLV3没说限制收费什么的
 
