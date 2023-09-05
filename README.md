@@ -7,6 +7,8 @@
 
 ## 2023年9月4日-5日，此作者似乎发了一些信息给我在他那个仓库下面，似乎有一件是要关闭RetroMusicPlayer下面的issue
 
+# 此事件，觉得此作者没有诚意的那个点，也没有勇气，做事和以前遇到过的运营的一些老板一样 可能容不下沙子，有能耐把我账号也删除吧
+
 原话“开源非云盘、VIP和隐私库外的所有内容。RetroMusicPlayer/RetroMusicPlayer#1551 帮忙关闭关联内容”，任何此作者删除了原仓库（换了并公开的他说的内容）
 
 似乎想把这个事件消失
@@ -20,7 +22,7 @@ For example, if you distribute copies of such a program, whether gratis or for a
 明知软件为GPLV3协议而进行Copy改动并写道：Thanks RetroMusicPlayer UI，这不仅仅是UI而是大量移植，是在RetroMusicPlayer原项目直接改动，而不遵守GPLV3协议，明显违反。
 比最近的CEC-IDE更**
 
-https://github.com/pure-music/PureMusic/issues/4
+https://github.com/pure-music/PureMusic/issues/4 （此已经被此Caij作者从github上抹掉。https://github.com/Caij）
 
 ![image](https://github.com/vwps/PureMusicGPL3/assets/143679824/3f38a72d-216e-4b86-9777-4a92247f9e4d)
 
